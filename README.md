@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @kinaHaborat
+- 👀 I’m interested in programing, design, 3D Art, reading, playing games.
+- 🌱 I’m currently learning React-Native and aim to learn many more tecnologies!
+- 💞️ I’m looking to collaborate on Frontend and Backend development.
+- 📫 How to reach me:
+-   tbaptista@live.com.pt
+-   917148446 (WhatsApp if needed)
+-   www.linkedin.com/in/tiagobmédia
